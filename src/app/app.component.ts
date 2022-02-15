@@ -20,7 +20,7 @@ export class AppComponent {
   };
 
   data: any = {
-    email: 'muk@gmail.com'
+    email: ''
   };
 
   isCompleted: boolean = false;
